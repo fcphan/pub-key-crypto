@@ -8,7 +8,7 @@ It is worth noting that new public and private keys are generated EVERY time a m
 
 _If not already downloaded from some other source_
 
-`https://github.com/fcphan/public_crypto.git`
+`git clone https://github.com/fcphan/pub-key-crypto.git`
 
 _Otherwise run the following_
 
